@@ -13,7 +13,7 @@ Light, fast, and simple.
 
 # Installation
 
-bash <(curl -s https://raw.githubusercontent.com/next-ninja/Hibernate-wings/refs/heads/main/install.sh)
+``bash <(curl -s https://raw.githubusercontent.com/next-ninja/Hibernate-wings/refs/heads/main/install.sh)``
 
 ✅ That's it! Hibernate will automatically run and protect your nodes.
 
